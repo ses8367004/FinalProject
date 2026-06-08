@@ -58,5 +58,9 @@ python -m venv venv
 ```
 
 ```Terminal
+.\venv\Scripts\Activate
+```
+
+```Terminal
 pip install -r requirements.txt
 ```
